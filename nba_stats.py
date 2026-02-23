@@ -4,7 +4,7 @@ import seaborn as sns
 from scipy import stats
 
 # 1. Load Data
-po = pd.read_csv('team_stats_advanced_po.csv')
+po = pd.read_csv('Data/team_stats_advanced_po.csv')
 
 # 2. Preparation
 po['Style_Index'] = (1 - po['AST_PCT']) * 100
