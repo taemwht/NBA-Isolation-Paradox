@@ -10,7 +10,7 @@ Does "Hero Ball" actually lose games? This project uses data science to challeng
 - **Style Index:** Calculated as `(1 - Assist %) * 100`. 
   - *Lower Score:* Passing-oriented (e.g., 2014 Spurs)
   - *Higher Score:* Isolation-oriented (e.g., 2018 Rockets)
-- **Metrics:** Pearson Correlation Coefficient ($r$) and P-Value ($p$).
+- **Metrics:** Pearson Correlation Coefficient ($r$) and P-Value ($p$) .
 
 ### The Visualization
 ![NBA Style Analysis](NBA_style_comparison.png)
