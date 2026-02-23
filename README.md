@@ -1,7 +1,7 @@
 # NBA Isolation Paradox
 
 ### Project Overview
-Does "Hero Ball" actually lose games? This project uses data science to challenge the basketball narrative that isolation-heavy offenses are unsustainable in the playoffs. By analyzing 27 years of NBA advanced stats, I measured the relationship between offensive style and winning.
+Does "Hero Ball" actually lose games? This project uses data science to challenge the basketball narrative that isolation-heavy offenses are unsustainable in the playoffs. By analyzing 27 years of NBA advanced stats, I measured the relationship between offensive style and winning. 
 
 ### The Experiment
 **Hypothesis:** Isolation-heavy teams will have a lower playoff win percentage than high-passing teams.
