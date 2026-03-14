@@ -39,6 +39,12 @@ Does "Hero Ball" actually lose games? This project uses data science to challeng
 - `data/team_stats_advanced_po.csv`: Raw dataset (1997-2023).
 - `NBA_style_comparison.png`: Final analysis visualization.
 
+
+### References
+Hussaini, S. (2024). NBA Dataset. Kaggle.
+Basketball-Reference. Player Play-Type & Shooting Statistics.
+NBA Stats. Synergy Play-type Data Definitions.
+
 ### Tools Used
 - **Python** (Pandas, Scipy)
 - **Visualization** (Matplotlib, Seaborn)
