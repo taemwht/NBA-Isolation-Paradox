@@ -41,9 +41,9 @@ Does "Hero Ball" actually lose games? This project uses data science to challeng
 
 
 ### References
-Hussaini, S. (2024). NBA Dataset. Kaggle.
-Basketball-Reference. Player Play-Type & Shooting Statistics.
-NBA Stats. Synergy Play-type Data Definitions.
+- Hussaini, S. (2024). NBA Dataset. Kaggle.
+- Basketball-Reference. Player Play-Type & Shooting Statistics.
+- NBA Stats. Synergy Play-type Data Definitions.
 
 ### Tools Used
 - **Python** (Pandas, Scipy)
